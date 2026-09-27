@@ -18,9 +18,3 @@ Outside of that, there's music, chess, and a never-ending list of things I want 
 
 - Ideas, experiments, and things I haven't figured out yet.
 - The intersection of AI, systems, and the real world.
-
-### 🌐 Where to Find Me
-
-- **Portfolio Website:** *[In Progress]*
-- **LinkedIn:** [linkedin.com/in/surya-tej-majji-a53780291](https://www.linkedin.com/in/surya-tej-majji-a53780291/)
-- **Email:** mvs.majji@gmail.com
