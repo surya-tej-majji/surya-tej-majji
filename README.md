@@ -6,8 +6,6 @@
 
 <br />
 
-> ### *"Hey, this is Surya Tej"*
-
 <br />
 
 </div>
