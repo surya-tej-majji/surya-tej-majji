@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="./assets/github-bg.png" width="100%" alt="" />
+</div>
+
+<br />
 
 <div align="center">
 
 # Build things so useful they become invisible.
-
 
 </div>
 
@@ -14,7 +18,7 @@ Outside of that, there's music, chess, and a never-ending list of things I want 
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 - Ideas, experiments, and things I haven't figured out yet.
 - The intersection of AI, systems, and the real world.
