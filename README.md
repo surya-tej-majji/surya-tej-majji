@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <code>AI</code> · <code>SYSTEMS</code> · <code>ELECTRONICS</code> · <code>MUSIC</code> · <code>CHESS</code>
+  <code>AI</code> · <code>SYSTEMS</code> · <code>MUSIC</code> · <code>CHESS</code>
 </p>
 
 I like building systems that feel so seamless and reliable that people treat them like a basic utility, just like the internet.
@@ -18,7 +18,7 @@ Outside of that, there's music, chess, and a never-ending list of things I want 
 
 ### Currently Exploring
 
-`ideas` · `experiments` · `AI × systems × real world`
+`ideas` · `experiments` · `real world`
 
 - Ideas, experiments, and things I haven't figured out yet.
 - The intersection of AI, systems, and the real world.
