@@ -6,7 +6,7 @@
 
 </div>
 
-I like building systems that feel so seamless and reliable people treat them like a basic utility just like the internet.
+I like building systems that feel so seamless and reliable that people treat them like a basic utility, just like the internet.
 
 I'm curious about how things work, enjoy building things from scratch, and like exploring ideas that connect software, intelligence, and the physical world.
 
