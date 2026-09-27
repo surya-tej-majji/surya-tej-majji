@@ -2,7 +2,6 @@
 <div align="center">
 
 # Build things so useful they become invisible.
-### Founding AI Research Engineer
 
 <br />
 
